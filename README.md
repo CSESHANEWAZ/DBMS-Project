@@ -1,2 +1,2 @@
 # DBMS-Project
-Restaurant Management System
+This a Restaurant Management System website
